@@ -10,7 +10,7 @@ export class NavMenu extends React.Component<{}, {}> {
       <Navbar inverse={true} fixedTop={true} fluid={true} collapseOnSelect={true}>
         <Navbar.Header>
           <Navbar.Brand>
-            <Link to={'/'}>react</Link>
+            <Link to={'/'}>reactredux template</Link>
           </Navbar.Brand>
           <Navbar.Toggle />
         </Navbar.Header>
